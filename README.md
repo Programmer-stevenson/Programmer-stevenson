@@ -1,13 +1,10 @@
--2020
--
-- 👋 Hi Everyone!!!!, I’m Brandon Stevenson 
-- 👀 I’m super passionate about technology, and very interested in Software Developement, as well  Ux/Ui Design Currently. I am Currently Stille beginner haha! but am 
-      a very quick paced learner! I have an attention to detail and believe myself to be better than Average of a learner by far!
-- 🌱 I’m currently learning Html, Css, UX/UI Design And Javascript. I am Currently a student at College of Southern Nevada,
-      where I am pursuing an Associate Of Applied Science Degree In Software-Programming.
-- 📫 How to reach me Programmer.brandon.s@gmail.com is a perfect email to reach me at! 
 
-<!---
-Programmer-stevenson/Programmer-stevenson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+⚠️ All Non Forked project code, architecture, and designs featured here are original creations fully developed and owned by Brandon Stevenson.
+
+These works are shared strictly for professional demonstration and portfolio purposes to showcase software development, design, and engineering capabilities. The code, design assets, and concepts presented are the result of original development efforts, creative problem-solving, and system architecture authored by me.
+
+Unauthorized copying, reproduction, reuse, modification, or distribution of any part of these projects — including source code, design elements, or intellectual concepts — is strictly prohibited.
+
+Permission to view the live application and repository links is granted only for evaluation and demonstration by prospective employers, clients, or collaborators. Any commercial, educational, or derivative use of this material without prior written consent is not allowed.
+
+© 2026 Brandon Stevenson. All Rights Reserved
