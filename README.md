@@ -1,5 +1,5 @@
 
-⚠️ All Non Forked project code, architecture, and designs featured here are original creations fully developed and owned by Brandon Stevenson.
+⚠️ All project, files & documentation, architecture, images, labs, designs and all showcased work featured here are original creations fully developed and owned by Brandon Stevenson.
 
 These works are shared strictly for professional demonstration and portfolio purposes to showcase web development, software programming & scripting, IT Operations & Documentation, Network administration & design, and other relevant engineering capabilities. The code, design assets, and concepts presented are the result of original development efforts, in-depth research, creative problem-solving, and system architecture authored by me.
 
